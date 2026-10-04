@@ -2,8 +2,8 @@
 <resources>
 
     <!-- Launcher icon -->
-    <color name="ic_launcher_background">#FFFDFB</color>
-    <color name="ic_launcher_foreground">#FF111111</color>
+    <color name="ic_launcher_foreground">@android:color/system_neutral2_700</color>
+    <color name="ic_launcher_background">@android:color/system_accent1_100</color>
 
     <!-- Splash -->
     <color name="splash_background">#ECEFF1</color>
