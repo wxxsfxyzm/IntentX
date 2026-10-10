@@ -92,7 +92,7 @@ room-compiler = { group = "androidx.room3", name = "room3-compiler", version.ref
 ktx-serializationJson = { group = "org.jetbrains.kotlinx", name = "kotlinx-serialization-json", version.ref = "ktx-serialization" }
 # AndroidHiddenApiBypass
 # https://github.com/LSPosed/AndroidHiddenApiBypass
-hiddenapibypass = { group = "org.lsposed.hiddenapibypass", name = "hiddenapibypass", version = "6.1" }
+hiddenapibypass = { group = "org.lsposed.hiddenapibypass", name = "hiddenapibypass", version = "6.2" }
 commons-cli = { group = "commons-cli", name = "commons-cli", version = "1.11.0" }
 commons-compress = { module = "org.apache.commons:commons-compress", version.ref = "commonsCompress" }
 
