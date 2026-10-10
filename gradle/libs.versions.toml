@@ -38,7 +38,7 @@ profileinstaller = "1.4.1"
 commonsCompress = "1.28.0"
 spotless = "8.10.4"
 ktlint = "1.8.0"
-composeKtlintRules = "0.6.7"
+composeKtlintRules = "0.6.8"
 
 [plugins]
 intentx-application = { id = "intentx.android.application" }
