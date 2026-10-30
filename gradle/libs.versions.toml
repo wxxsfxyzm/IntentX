@@ -11,7 +11,7 @@
 agp = "9.5.0"
 kotlin = "2.4.21"
 kotlinxCoroutines = "1.11.0"
-ksp = "2.3.12"
+ksp = "2.3.13"
 composeBom = "2026.09.00"
 compose = "1.12.1"
 splashScreen = "1.2.0"
